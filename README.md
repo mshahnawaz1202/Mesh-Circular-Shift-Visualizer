@@ -1,6 +1,6 @@
 # Mesh Circular Shift Visualizer
 
-> **Live Demo:** [<!-- TODO: Add Vercel/Netlify URL after deployment -->]()  
+> **Live Demo:** [https://mesh-circular-shift-visualizer.vercel.app/]()  
 > **PDC Assignment 2** — Parallel and Distributed Computing, Semester 6
 
 An interactive web application that simulates and visualizes the **circular q-shift** operation on a **2D mesh topology** in parallel computing.
