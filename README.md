@@ -89,24 +89,6 @@ npm run preview     # preview production build locally
 
 ---
 
-## 🌐 Deployment
-
-This application is deployed on **Vercel** (or Netlify).
-
-**To deploy yourself:**
-
-```bash
-# Using Vercel CLI
-npm i -g vercel
-vercel --prod
-
-# Or using Netlify CLI
-npm i -g netlify-cli
-netlify deploy --prod --dir=dist
-```
-
----
-
 ## 🧪 Algorithm Verification
 
 The `shiftLogic.js` module includes a self-verification step after every full shift:
@@ -146,7 +128,3 @@ Example for p=16, q=5:
 
 ---
 
-## 👤 Author
-
-**[Your Name]** — [your-email@example.com]  
-Semester 6 · Parallel & Distributed Computing
